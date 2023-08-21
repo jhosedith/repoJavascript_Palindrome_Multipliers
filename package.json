@@ -1,0 +1,12 @@
+{
+  "name": "repojavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tests/testCases.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": { }
+}
