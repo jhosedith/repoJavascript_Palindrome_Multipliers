@@ -6,13 +6,13 @@ This project consists of a simple javascript functions CountMultipliers and isPa
 test cases scenarios.
 
 ### Quick Start
-```
-1.Install visual studio code.
-2.Install nodejs
-3.Clone the project using `git clone git@github.com:jhosedith/repoJavascript_tasks_1_2.git`
-4.Install node modules - `npm install`.
-5.To run tests - `node tests/testCases.js` or `node .` 
-```
+
+1. Install visual studio
+2. Install nodejs and check that it appear in your Environment Variables.
+3. Clone the project using `git clone git@github.com:jhosedith/repoJavascript_tasks_1_2.git`
+4. Install node modules - `npm install`.
+5. To run tests - `node tests/testCases.js` or `node .` .
+   
 ### Tests
 When execute the step 3, `run tests`, the following answer should be appear:
 
