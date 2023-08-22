@@ -7,7 +7,7 @@ test cases scenarios.
 
 ### Quick Start
 
-1. Install visual studio
+1. Install visual studio code
 2. Install nodejs and check that it appear in your Environment Variables.
 3. Clone the project using `git clone git@github.com:jhosedith/repoJavascript_tasks_1_2.git`
 4. Install node modules - `npm install`.
